@@ -18,3 +18,7 @@
   <a href="https://www.linkedin.com/in/tásis-gama-b991b623a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="https://discord.gg/https://discord.gg/zUT9PsC8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
+  
+<br>
+  
+  # Quer trocar uma idéia sobre códigos?
